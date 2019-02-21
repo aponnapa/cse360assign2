@@ -5,7 +5,6 @@ package cse360assign2;
 public class Calculator {
 
 	private int total;
-	private int history;
 	
 	public Calculator () {
 		total = 0;  // not needed - included for clarity
